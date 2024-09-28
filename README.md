@@ -1,1 +1,1 @@
-# simple-helm
+# simple-helm-exercise
